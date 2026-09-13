@@ -33,7 +33,7 @@ Operations and city teams needed answers to:
 
 ## 📊 Dashboard 1 — Ride Booking & Operational Performance (Executive View)
 
-![Booking Performance Dashboard](assets/screenshots/01_booking_performance_dashboard.png)
+![Booking Performance Dashboard](01_booking_performance_dashboard.png)
 
 **Purpose:** A single-page executive snapshot of overall booking health.
 
@@ -58,7 +58,7 @@ Operations and city teams needed answers to:
 
 ## 🛠️ Dashboard 2 — Cancellation & Operational Analysis (Diagnostic View)
 
-![Cancellation & Operations Dashboard](assets/screenshots/02_cancellation_operations_dashboard.png)
+![Cancellation & Operations Dashboard](02_cancellation_operations_dashboard.png)
 
 **Purpose:** A drill-down into *why* bookings fail, built for ops and city managers.
 
