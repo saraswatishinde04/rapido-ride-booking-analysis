@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temp/cache files
+*.pbix.bak
+~$*.pbix
+
+# Local data (uncomment if you don't want to publish raw data)
+# data/*.csv
+# data/*.xlsx
